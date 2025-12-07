@@ -1,3 +1,34 @@
+**Neutron Star F-Mode Solver** project.
+
+### 🏷️ GitHub / Repository Topics
+(Copy and paste these for your repo tags)
+
+`neutron-stars` `general-relativity` `computational-astrophysics` `tov-solver` `asteroseismology` `equation-of-state` `monte-carlo-simulation` `scipy` `differential-equations` `radial-pulsations` `dense-matter`
+
+### 📚 Academic & Research Keywords
+
+*   **Primary Field:** Computational Astrophysics / General Relativity
+*   **Specific Object:** Compact Objects (Neutron Stars)
+*   **Physics Concepts:** Hydrostatic Equilibrium, Radial Oscillations, f-mode Eigenfrequencies, Geometrized Units ($G=c=1$)
+*   **Data Source:** CompOSE (CompStar Online Supernovae Equations of State)
+*   **Methods:** Shooting Method, Boundary Value Problems (BVP), Monte Carlo Uncertainty Quantification
+
+### 🧠 Concept Categories
+
+**1. Physics & Astronomy**
+*   **Stellar Structure:** Solving the Tolman-Oppenheimer-Volkoff (TOV) equations.
+*   **Perturbation Theory:** Linearized radial pulsation equations.
+*   **Nuclear Physics:** Interpreting tabulated Equations of State (EoS) for dense matter.
+
+**2. Numerical Methods**
+*   **ODE Integration:** Using `Runge-Kutta` methods (via `solve_ivp`) for coupled differential equations.
+*   **Root Finding:** Using the "Shooting Method" to find eigenvalues (frequencies) that satisfy boundary conditions.
+*   **Interpolation:** Handling tabular data (`interp1d`).
+
+**3. Data Science & Python**
+*   **Stochastic Modeling:** Using Monte Carlo simulations to generate population statistics.
+*   **Data Visualization:** Using `Seaborn` for violin plots and correlation heatmaps to analyze physical properties.
+
 # 🌌 TOV Solver with Malliavin Calculus
 
 ## Uncertainty Quantification for Neutron Star Models
