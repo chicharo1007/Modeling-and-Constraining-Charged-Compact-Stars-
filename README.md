@@ -1,10 +1,5 @@
 **Neutron Star F-Mode Solver** project.
 
-### 🏷️ GitHub / Repository Topics
-(Copy and paste these for your repo tags)
-
-`neutron-stars` `general-relativity` `computational-astrophysics` `tov-solver` `asteroseismology` `equation-of-state` `monte-carlo-simulation` `scipy` `differential-equations` `radial-pulsations` `dense-matter`
-
 ### 📚 Academic & Research Keywords
 
 *   **Primary Field:** Computational Astrophysics / General Relativity
