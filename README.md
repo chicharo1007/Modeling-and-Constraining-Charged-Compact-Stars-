@@ -119,7 +119,7 @@ Open source. Free to use for academic and research purposes.
 
 This project is a high-precision numerical toolkit designed to solve the **Tolman-Oppenheimer-Volkoff (TOV)** equations and the **Linearized Radial Pulsation** equations.
 
-It takes tabulated Equation of State (EoS) data—specifically from the **CompOSE** database format—and calculates the fundamental oscillation frequency (f-mode), Mass, and Radius of neutron stars. It then performs a Monte Carlo simulation to explore the stability landscape of various nuclear models.
+It takes tabulated Equation of State (EoS) data specifically from the **CompOSE** database format and calculates the fundamental oscillation frequency (f-mode), Mass, and Radius of neutron stars. It then performs a Monte Carlo simulation to explore the stability landscape of various nuclear models.
 
 ### 🚀 Key Features
 
